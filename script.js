@@ -9,7 +9,10 @@
    'Nossos primeiros econtros, tenho a mesma sensação de frio na barriga como nos primeiros encontros',
    'No shopping, dia maravilhoso',
    'Primeiros encontros também, estava te enchendo de amor',
-   'Mc donalds, paracemos um quebra cabeça nessa foto'
+   'Mc donalds, paracemos um quebra cabeça nessa foto',
+   'A gente nossos bicos, é muito gostoso ter você comigo',
+   'Você e sua florzinha que eu fiz',
+   'Nós dois, amo nós dois muitooo'
  ];
  
  // Adiciona um evento de clique a cada imagem na galeria
